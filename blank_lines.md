@@ -2,7 +2,7 @@
 
 Matches blank lines that contain whitespace.
 
-```
+```RegEx
 /(\S)?( |\t)+(\r\n|\r|\n)/g
 ```
 
